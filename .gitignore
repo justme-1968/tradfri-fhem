@@ -1,0 +1,13 @@
+
+.DS_Store
+
+key.pem
+cert.pem
+tradfri-fhem*tgz
+
+node_modules/
+
+TODO
+log
+
+*.swp

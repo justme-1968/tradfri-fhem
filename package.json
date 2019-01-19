@@ -1,0 +1,25 @@
+{
+  "name": "tradfri-fhem",
+  "version": "0.0.1",
+  "description": "xx",
+  "author": "justme-1968",
+  "license": "ISC",
+  "bin": {
+    "tradfri-fhem": "./bin/tradfri"
+  },
+  "keywords": [
+    "TRÅDFRI",
+    "tradfri",
+    "fhem"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justme-1968/tradfri-fhem.git"
+  },
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "commander": "^2.8.1",
+    "node-tradfri-client": "^1.5.0"
+  },
+  "optionalDependencies": {}
+}
