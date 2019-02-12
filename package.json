@@ -1,6 +1,6 @@
 {
   "name": "tradfri-fhem",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "translates node-tradfri-client events to a mixed hue/deconz format to be fed into FHEM HueDevices",
   "author": "justme-1968",
   "license": "ISC",
