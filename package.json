@@ -22,7 +22,7 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^2.20.3",
-    "node-tradfri-client": "^2.1.4"
+    "node-tradfri-client": "^3.0.1"
   },
   "optionalDependencies": {}
 }
